@@ -2,7 +2,7 @@ numpy
 matplotlib 
 pandas 
 seaborn 
-sklearn 
+scikit-learn==1.0.2
 yellowbrick 
 phik 
 statsmodels 
